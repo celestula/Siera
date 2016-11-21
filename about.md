@@ -5,8 +5,8 @@ permalink: /about/
 image: /images/pic02.jpg
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I study Computer Science at FSU University. The majority of my courses have been online as it is part of FSU's distance learning curriculum.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+My hobbies are learning backend, playing World of Warcraft, and arguing on Reddit.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
