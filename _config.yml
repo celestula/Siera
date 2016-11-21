@@ -2,11 +2,12 @@
 title: My first site
 email: DjSky09@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a junior in Computer Science student. I enjoy learning about programming languages. The primary language
+  I use for school is C++, but I am eager to learn Ruby and Python as I've heard they're fun to program in. Last summer
+  I took my first database class and I instantly feel in love with SQL, so I hope to study more about backend and be hired as a DBA.
+  My blog posts will mainly be about school struggles and achievements. 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "celestula.github.io" # the base hostname & protocol for your site
 twitter_username: Celestula
 github_username:  Celestula
 
