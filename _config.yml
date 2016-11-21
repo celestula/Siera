@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I took my first database class and I instantly feel in love with SQL, so I hope to study more about backend and be hired as a DBA.
   My blog posts will mainly be about school struggles and achievements. 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "celestula.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: Celestula
 github_username:  Celestula
 
@@ -16,6 +16,6 @@ markdown: kramdown
 
 paginate: 4
 
-author: Your name
+author: Heather G
 
 gems: [jekyll-paginate]
