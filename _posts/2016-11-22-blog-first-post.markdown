@@ -2,8 +2,8 @@
 layout: post
 title:  "My first post"
 date:   2016-11-22 11:35 am
-categories: first post
-tags: life, first post, school
+categories: about me
+tags: life, school
 image: /images/coffeestudy.jpg
 ---
 It took sometime, but I found the easiest way of getting this started was to fork this to my repository and edit to my perference. 
