@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "#2"
-date:   2016-11-28 9:22 pm
+date:   2016-11-25 9:22 pm
 categories: school
 tags: life, school
 image: /images/kon1.jpg
@@ -12,8 +12,10 @@ I worked on coming up with constraints and user characteristics for the team pro
 
 Mini to do list for Saturday:
 * Flash cards (CEN, SPN)
+
 * Submit Use case
-* C++ review 
+
+* C++ review
 
 
 [jekyll]:      http://jekyllrb.com
